@@ -115,7 +115,7 @@ The following preprocessing techniques were applied:
 ```text
 bank-marketing-ml/
 ├── app.py
-├── ML_Assignment.ipynb
+├── ML_ASSIGNMENT2.ipynb
 ├── requirements.txt
 ├── README.md
 ├── test_data.csv
