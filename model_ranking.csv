@@ -1,0 +1,6 @@
+ML Model,Accuracy Rank,AUC Rank,Precision Rank,Recall Rank,F1 Score Rank,MCC Rank,Average Rank
+Support Vector Machine,1.0,2.0,1.0,3.0,1.0,1.0,1.5
+Logistic Regression,2.0,1.0,2.0,4.0,4.0,2.0,2.5
+Decision Tree,4.0,5.0,4.0,2.0,2.0,4.0,3.5
+KNN,3.0,3.0,3.0,5.0,5.0,3.0,3.6666666666666665
+Naive Bayes,5.0,4.0,5.0,1.0,3.0,5.0,3.8333333333333335
